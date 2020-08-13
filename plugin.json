@@ -1,0 +1,10 @@
+{
+  "id": "cloth-commons",
+  "minversion": 202000400000,
+  "info": {
+    "name": "ClothCommons",
+    "version": "1.0.0",
+    "description": "A library adding data lists and new things for other plugins.",
+    "author": "Goldorion"
+  }
+}
