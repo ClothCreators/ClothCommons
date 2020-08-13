@@ -4,24 +4,31 @@ An unofficial plugin for [MCreator](https://mcreator.net/), a code generator to 
 ## Disclaimer
 This project is not official. It is not affiliated with the respective owners and maintainers of Forge, Fabric, Spigot, Minecraft, MCreator, or another API. Do not expect any official support from their communities.
 
+## Important Information
+- Make sure you use the latest MCreator 2020.4 version
+- Back up your workspace before updating to a newer version of the plugin.
+- We use this plugin for the [Fabric](https://mcreator.net/plugin/64512/mcreator-fabric-generator) and [Spigot](https://mcreator.net/plugin/64516/mcreator-spigot-generator) Generators
+
 ## Features
 * Data lists for Minecraft 1.16.2
 * New procedure blocks (Cloth Commons category)
+
+## How to use in your generator
+1. Create your generator (it's always better to have a generator ;))
+2. Go in the folder you want of this plugin, and check the name. Copy it
+3. Return in your generator, and create the code file (or the mappings) file
+4. Add the code or the mapping as normally, using the same names of the file.
+5. Install the plugin and you're done!
 
 ## Building Instructions
 - Clone the repository
 - Run `./gradlew build` to get the zip file in `build/`, or run `./gradlew install` to directly build and install the plugin to the mcreator plugin folder
 
 ## Installation Instructions
-Pre-built binaries can be found on the [Release page of this repository]().
+Pre-built binaries can be found on the [Release page of this repository](https://github.com/ClothCreators/ClothCommons/releases).
 You can also find the plugin's page on MCreator [here](https://mcreator.net/plugin/65349/cloth-commons).
 
 Install like any other plugin: Launch MCreator -> Open preferences -> Manage plugins -> Load Plugin -> Find your downloaded zip file -> **Restart MCreator**.
-
-## Important Information
-- Make sure you use the latest MCreator 2020.4 version
-- Back up your workspace before updating to a newer version of the plugin.
-- We use this plugin for the [Fabric](https://mcreator.net/plugin/64512/mcreator-fabric-generator) and [Spigot](https://mcreator.net/plugin/64516/mcreator-spigot-generator) Generators
 
 ## Credits/License
 
