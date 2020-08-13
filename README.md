@@ -5,6 +5,8 @@ An unofficial plugin for [MCreator](https://mcreator.net/), a code generator to 
 This project is not official. It is not affiliated with the respective owners and maintainers of Forge, Fabric, Spigot, Minecraft, MCreator, or another API. Do not expect any official support from their communities.
 
 ## Features
+* Data lists for Minecraft 1.16.2
+* New procedure blocks (Cloth Commons category)
 
 ## Building Instructions
 - Clone the repository
@@ -12,12 +14,14 @@ This project is not official. It is not affiliated with the respective owners an
 
 ## Installation Instructions
 Pre-built binaries can be found on the [Release page of this repository]().
+You can also find the plugin's page on MCreator [here](https://mcreator.net/plugin/65349/cloth-commons).
 
 Install like any other plugin: Launch MCreator -> Open preferences -> Manage plugins -> Load Plugin -> Find your downloaded zip file -> **Restart MCreator**.
 
 ## Important Information
 - Make sure you use the latest MCreator 2020.4 version
 - Back up your workspace before updating to a newer version of the plugin.
+- We use this plugin for the [Fabric](https://mcreator.net/plugin/64512/mcreator-fabric-generator) and [Spigot](https://mcreator.net/plugin/64516/mcreator-spigot-generator) Generators
 
 ## Credits/License
 
