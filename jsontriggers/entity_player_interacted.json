@@ -1,0 +1,27 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "item",
+      "check": "MCItem"
+    }
+  ],
+  "extensions": [
+    "entity_list_provider"
+  ],
+  "inputsInline": true,
+  "nextStatement": null,
+  "colour": 60,
+  "mcreator": {
+    "toolbox_id": "entities",
+    "toolbox_init": [
+      "<value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\"></field></block></value>",
+    ],
+    "fields": [
+      "entity"
+    ],
+    "inputs": [
+      "item"
+    ]
+  }
+}
